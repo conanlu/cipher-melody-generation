@@ -1,0 +1,66 @@
+/* Size for brand */
+nav .navbar-brand
+{
+    font-size: xx-large;
+}
+/* Colors for brand */
+nav .navbar-brand .blue
+{
+    color: #f274ac;
+}
+nav .navbar-brand .red
+{
+    color: #A51C30;
+}
+
+.navbar{
+    font-size: large;
+    font-family: Serif;
+    color: #f274ac;
+}
+
+  #background {
+    font-family: Serif;
+  }
+
+  #pic {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+  }
+
+  #likebutton {
+    height: 50px;
+    width: 50px;
+  } 
+
+  .title {
+    color:#f274ac;
+    font-family: Serif;
+  }
+
+  #apology{
+    font-family: Serif;
+  }
+
+  #error {
+    color:#f274ac
+  }
+
+  #errormessage {
+    color:#A51C30
+  }
+
+  #collagepic {
+    width: 324px;
+    height: 324px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+  }
